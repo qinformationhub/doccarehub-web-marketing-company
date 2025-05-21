@@ -64,7 +64,7 @@ const Contact = () => {
                   <Label htmlFor="whatsapp">WhatsApp Number</Label>
                   <Input
                     id="whatsapp"
-                    placeholder="+xxxxxxxxxxxx"
+                    placeholder="+1234567890"
                     className="mt-1"
                     required
                   />

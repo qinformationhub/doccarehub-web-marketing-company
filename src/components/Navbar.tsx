@@ -107,9 +107,9 @@ const Navbar = () => {
               repeatType: "loop",
               ease: "easeInOut",
             }}
-          >
+            >
             <Link to="contact" smooth={true} duration={500}>
-              <Button className="px-4 py-2 bg-gradient-to-r from-medical-500 to-blue-600 hover:from-medical-600 hover:to-blue-700 text-white text-sm font-semibold rounded-full shadow-md hover:shadow-lg transition-all duration-300">
+              <Button className="px-4 py-2 bg-yellow-400 hover:bg-yellow-500 text-white text-sm font-semibold rounded-full shadow-md hover:shadow-lg transition-all duration-300">
                 Book a Demo
               </Button>
             </Link>

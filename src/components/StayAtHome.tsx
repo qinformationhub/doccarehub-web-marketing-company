@@ -36,10 +36,10 @@ const StayAtHome = () => {
                 </p>
                 
                 <Button 
-                  className="bg-white hover:bg-blue-50 text-blue-700 px-8 py-6 rounded-full font-medium text-lg transition-all duration-300 shadow-lg hover:shadow-xl flex items-center gap-2 h-auto"
+                  className="bg-yellow-400 hover:bg-yellow-500 text-white px-4 py-2 rounded-full font-medium text-lg transition-all duration-300 shadow-lg hover:shadow-xl flex items-center gap-2 h-auto"
                 >
                   Book Appointment
-                  <ArrowRight className="h-5 w-5" />
+                  <ArrowRight className="h-5 w-5 text-gray-500" />
                 </Button>
               </motion.div>
             </div>
