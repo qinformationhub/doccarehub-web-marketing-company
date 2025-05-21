@@ -181,7 +181,7 @@ const Navbar = () => {
                   duration={500}
                   onClick={() => setIsMenuOpen(false)}
                 >
-                  <Button className="w-full bg-gradient-to-r from-medical-500 to-blue-600 hover:from-medical-600 hover:to-blue-700 text-white rounded-full py-3">
+                  <Button className="w-full bg-yellow-400 hover:bg-yellow-500 text-white rounded-full py-3">
                     Book a Demo
                   </Button>
                 </Link>
